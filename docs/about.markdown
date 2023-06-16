@@ -1,18 +1,27 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# A bit more about me...
 
 
-[jekyll-organization]: https://github.com/jekyll
+## ... as a student
+
+## ... as a researcher
+
+## ... as a teacher
+
+## ... as a collegue
+
+
+## ... as a person
+
+I'm passionnated of computer science in its whole but as previous sections show : especially in **image processing** !
+
+Video games creations, micro-doppler spectrograms, medical MRI and tomographies and now remote sensing images, so many fields I was glad to discover deeper inside.
+
+If I did not have any background on the topic before my experiences, my curiosity and adaptability helped me to associate my skills in **image and signal processing** as well as in **Machine and Deep Learning** to all these applications. 
+
+But life is not made only of works ! Hiking, swimming, cycling and sometimes bouldering are so many activities I like to share with friends and collegues especially within Annecy nowadays ! 
