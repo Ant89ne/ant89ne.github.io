@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+<div style="text-align: right"> ![PhotoAntoine](./images/PhotoPro.jpg "") </div>
+
 # ... as a student
 
 Following the obtention of my scientific Baccalaureate and my preparatory school in Math and Physics, I integrated CPE Lyon (France) engineering school in Maths and Physics. Among my engineering years, I could specialized in Image and Signal Processing, Modeling and Computer Science. Following my gap year, I followed a double diploma cursus : finishing my engineering school and integrating the master Image and Development in 3D (ID3D) in University Claude Bernard Lyon 1.
