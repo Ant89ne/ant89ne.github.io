@@ -60,7 +60,7 @@ If you are interested in my works and researches, need some more informations ab
 
 <br/><br/>
 
-Mail adress : antoine.bralet89@gmail.com <br/> LinkedIn Profile : [Antoine Bralet](https://www.linkedin.com/in/antoine-bralet-097385159/)
+Mail adress : antoine.bralet89@gmail.com <br/> LinkedIn Profile : <a href="https://www.linkedin.com/in/antoine-bralet-097385159/">Antoine Bralet</a>
 
 </div>
 
