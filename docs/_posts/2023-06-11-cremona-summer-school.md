@@ -9,17 +9,17 @@ categories: summerSchool domainAdaptation
 
 <div style="text-align: justify">
 
-From the 4th to the 11th of June, I had the opportunity to participate to an amazing summer school which took place in Cremona (Italy). 
+From the 4th to the 11th of June, I had the opportunity to participate to an amazing summer school which took place in Cremona (Italy).
 The school was organized by Pr. P. Gamba from the university of Pavia (Italy) was entitled : 
-
-"Machine and Deep Learning for Earth Observation"
-
+<br/><br/>
+<center><font size = 5>"Machine and Deep Learning for Earth Observation"</center></font>
+<br/><br/>
 Following the lectures from Pr. Gamba, Pr. Cavallero (University of Iceland), Pr. Begüm (University of Berlin) and Pr. Chanussot (University of Grenoble), I was chosen as the leader of a project group. 
 The project consisted in assessing the decrease of the Po river using only Sentinel-1 and Sentinel-2 images. 
-
+<br/>
 In the end of the week we succeeded to segment the Po river using morphological operations and to assess the Po river using a Domain Adaptation Neural Network as described in [Ganin et al., 2015].
 This way, we were able to extract common features in radar and optical images and regress the extent of the water using only **44 annotated images**.
-
+<br/>
 It was a wonderfull experience for me, both from a scientific and from a social point of view !
 
 </div>
