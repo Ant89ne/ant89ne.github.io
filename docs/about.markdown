@@ -4,15 +4,16 @@ title: About Me
 permalink: /about/
 ---
 
-<div style="text-align: right"> ![PhotoAntoine](./images/PhotoPro.jpg "") </div>
+<img align="right" hspace=50px src="/images/PhotoPro.jpg">
 
 # ... as a student
 
-Following the obtention of my scientific Baccalaureate and my preparatory school in Math and Physics, I integrated CPE Lyon (France) engineering school in Maths and Physics. Among my engineering years, I could specialized in Image and Signal Processing, Modeling and Computer Science. Following my gap year, I followed a double diploma cursus : finishing my engineering school and integrating the master Image and Development in 3D (ID3D) in University Claude Bernard Lyon 1.
+<div style="text-align: justify"> Following the obtention of my scientific Baccalaureate and my preparatory school in Math and Physics, I integrated CPE Lyon (France) engineering school in Maths and Physics. Among my engineering years, I could specialized in Image and Signal Processing, Modeling and Computer Science. Following my gap year, I followed a double diploma cursus : finishing my engineering school and integrating the master Image and Development in 3D (ID3D) in University Claude Bernard Lyon 1.
 
 In 2020, I get graduated both of my engineering school and my master. I then started in October 2020 my PhD in the LISTIC lab in Annecy on :
+</div>
 
-**<center><font size = 4> "Deep Multimodal Learning for Gravitary Movement Detection and Localization from Remote Sensing Imagery". </font></center>**
+**<center><font size = 5> "Deep Multimodal Learning for Gravitary Movement Detection and Localization from Remote Sensing Imagery". </font></center>**
 
 # ... as a researcher
 
