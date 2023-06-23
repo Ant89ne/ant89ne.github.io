@@ -7,6 +7,8 @@ categories: summerSchool domainAdaptation
 
 <img width=900px src="/images/2023_06_08_Museo_Violino_Thanks_to_Prof_Cavallaro_Linkedin_Profile.jpeg">
 
+&nbsp;
+
 <div style="text-align: justify">
 
 From the 4th to the 11th of June, I had the opportunity to participate to an amazing summer school which took place in Cremona (Italy).
