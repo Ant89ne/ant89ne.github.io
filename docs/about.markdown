@@ -10,7 +10,7 @@ Following the obtention of my scientific Baccalaureate and my preparatory school
 
 In 2020, I get graduated both of my engineering school and my master. I then started in October 2020 my PhD in the LISTIC lab in Annecy on :
 
-**<center><font size = 5> "Deep Multimodal Learning for Gravitary Movement Detection and Localization from Remote Sensing Imagery". </font></center>**
+**<center><font size = 4> "Deep Multimodal Learning for Gravitary Movement Detection and Localization from Remote Sensing Imagery". </font></center>**
 
 # ... as a researcher
 
