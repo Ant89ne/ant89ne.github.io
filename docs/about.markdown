@@ -14,7 +14,11 @@ In 2020, I get graduated both of my engineering school and my master. I then sta
 
 # ... as a researcher
 
+My researches are mainly based on **image processing and machine/deep learning**. I am used to adapt my knowledge in the field to any domain after learning its specificities. The range of applications of my work is wide : video games when I was in engineering school, micro-doppler radar wave signal analysis in TNO (Netherlands), medical images in CREATIS (France) and now remote sensing images in LISTIC Lab (France). After figuring out the specificities, limitations and constraints, I adapt my methodologies to the data, expectations and objectives. Here are some keywords describing the methodologies I set in place: Domain Adaptation, Multi-Modality, Conditionned Networks, Modality Translation and Self-Explainable Networks.
+
 # ... as a teacher
+
+During my PhD years, I am used to give courses to students in Polytech Annecy-Chambery and in the Institut Universitaire Technologique in Annecy. From Embedding Computer Science to Statistical Analysis, from Computer Science and Algorithms in Python to Deep Learning, I am used to vulgarize my researches and the concepts to send the most relevant messages. As a matter of fact, I also participated at the French version of My Thesis in 180 seconds to help me vulgarizing scientific notions and spread more easily complex concepts.
 
 # ... as a collegue
 
