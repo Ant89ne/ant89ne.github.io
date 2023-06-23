@@ -9,7 +9,7 @@ layout: home
 
 ---
 <br/>
-<img align="left" width=250 hspace=50px src="/images/PhotoMIAI.jpeg">
+<img align="left" width=250 hspace=20px src="/images/PhotoMIAI.jpeg">
 
 <br/>
 
