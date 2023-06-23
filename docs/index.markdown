@@ -7,9 +7,9 @@ layout: home
 
 **<center><font size = 7> Welcome on my personnal Website ! </font></center>**
 
----
+--- 
 
-# Looking for my last publications ? 
+**<font size = 5> Looking for my last publications ? </font>**
 
 Have a look on my [Publications](https://ant89ne.github.io/publications/) page !
 
@@ -27,4 +27,4 @@ For even more informations, contact me on antoine.bralet89@gmail.com !
 
 ---
 
-Else, have a look on my news ! :)
+Else, have a look on my news ! :smile:
