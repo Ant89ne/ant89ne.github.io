@@ -25,7 +25,7 @@ In 2020, I get graduated both of my engineering school and my master. I then sta
 
 <div style="text-align: justify">
 
-My researches are mainly based on **image processing and machine/deep learning**. I am used to adapt my knowledge in the field to any domain after learning its specificities. The range of applications of my work is wide : video games when I was in engineering school, micro-doppler radar wave signal analysis in TNO (Netherlands), medical images in CREATIS (France) and now remote sensing images in LISTIC Lab (France). After figuring out the specificities, limitations and constraints, I adapt my methodologies to the data, expectations and objectives. Here are some keywords describing the methodologies I set in place: Domain Adaptation, Multi-Modality, Conditionned Networks, Modality Translation and Self-Explainable Networks.
+My researches are mainly based on <b>image processing and machine/deep learning</b>. I am used to adapt my knowledge in the field to any domain after learning its specificities. The range of applications of my work is wide : video games when I was in engineering school, micro-doppler radar wave signal analysis in TNO (Netherlands), medical images in CREATIS (France) and now remote sensing images in LISTIC Lab (France). After figuring out the specificities, limitations and constraints, I adapt my methodologies to the data, expectations and objectives. Here are some keywords describing the methodologies I set in place: Domain Adaptation, Multi-Modality, Conditionned Networks, Modality Translation and Self-Explainable Networks.
 
 </div>
 
@@ -41,12 +41,12 @@ During my PhD years, I am used to give courses to students in Polytech Annecy-Ch
 
 <div style="text-align: justify">
 
-I'm passionnated of computer science in its whole but as previous sections show : especially in **image processing** !
+I'm passionnated of computer science in its whole but as previous sections show : especially in <b>image processing</b> !
 
 </div>
 <div style="text-align: justify">
 
-Video games creations, micro-doppler spectrograms, medical MRI and tomographies and now remote sensing images, so many fields I was glad to discover deeper inside. If I did not have any background on the topic before my experiences, my curiosity and adaptability helped me to associate my skills in **image and signal processing** as well as in **Machine and Deep Learning** to all these applications. 
+Video games creations, micro-doppler spectrograms, medical MRI and tomographies and now remote sensing images, so many fields I was glad to discover deeper inside. If I did not have any background on the topic before my experiences, my curiosity and adaptability helped me to associate my skills in <b>image and signal processing</b> as well as in <b>Machine and Deep Learning</b> to all these applications. 
 
 </div>
 <div style="text-align: justify">
