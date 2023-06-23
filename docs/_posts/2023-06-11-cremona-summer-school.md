@@ -12,7 +12,7 @@ categories: summerSchool domainAdaptation
 <div style="text-align: justify">
 
 From the 4th to the 11th of June, I had the opportunity to participate to an amazing summer school which took place in Cremona (Italy).
-The school was organized by Pr. P. Gamba from the university of Pavia (Italy) was entitled : 
+The school was organized by Pr. P. Gamba from the university of Pavia (Italy) and was entitled : 
 <br/><br/>
 <center><font size = 5>"Machine and Deep Learning for Earth Observation"</font></center>
 <br/>
