@@ -7,6 +7,19 @@ layout: home
 
 **<center><font size = 7> Welcome on my personnal Website ! </font></center>**
 
+---
+
+<img align="left" width=270 hspace=50px src="/images/PhotoMIAI.jpeg">
+
+<br/><br/>
+
+**<font size = 6> Antoine Bralet </font>**
+**<font size = 4> 2nd year PhD Student at LISTIC Lab - Université Savoie Mont-Blanc </font>**
+**<font size = 4> Member of AFuTé Team (Learning, Data Fusion and Remote Sensing) </font>**
+**<font size = 4> antoine.bralet89@gmail.com </font>**
+
+<br/><br/>
+
 --- 
 
 &nbsp;
