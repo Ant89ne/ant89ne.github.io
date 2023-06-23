@@ -41,4 +41,4 @@ For even more informations, contact me on antoine.bralet89@gmail.com !
 
 &nbsp;
 
-Else, have a look on my news !
+**<font size = 5> Else, have a look on my news ! </font>** 
