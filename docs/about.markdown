@@ -45,22 +45,10 @@ During my PhD years, I am used to give courses to students in Polytech Annecy-Ch
 
 <div style="text-align: justify">
 
-I'm passionnated of computer science in its whole but as previous sections show : especially in <b>image processing</b> !
-
-</div>
-
-&nbsp;
-
-<div style="text-align: justify">
-
+I'm passionnated by computer science in its whole but as previous sections show : especially in <b>image processing</b> !
+<br/><br/>
 Video games creations, micro-doppler spectrograms, medical MRI and tomographies and now remote sensing images, so many fields I was glad to discover deeper inside. If I did not have any background on the topic before my experiences, my curiosity and adaptability helped me to associate my skills in <b>image and signal processing</b> as well as in <b>Machine and Deep Learning</b> to all these applications. 
-
-</div>
-
-&nbsp;
-
-<div style="text-align: justify">
-
+<br/>
 But life is not made only of works ! Hiking, swimming, cycling and sometimes bouldering are so many activities I like to share with friends and collegues especially around Annecy nowadays ! 
 
 </div>
@@ -75,7 +63,6 @@ If you are interested in my works and researches, need some more informations ab
 
 </div>
 
-&nbsp;
 
 Mail adress : antoine.bralet89@gmail.com <br> LinkedIn Profile : [Antoine Bralet](https://www.linkedin.com/in/antoine-bralet-097385159/)
 
