@@ -12,7 +12,7 @@ categories: summerSchool domainAdaptation
 From the 4th to the 11th of June, I had the opportunity to participate to an amazing summer school which took place in Cremona (Italy).
 The school was organized by Pr. P. Gamba from the university of Pavia (Italy) was entitled : 
 <br/><br/>
-<center><font size = 5>"Machine and Deep Learning for Earth Observation"</center></font>
+<center><font size = 5>"Machine and Deep Learning for Earth Observation"</font></center>
 <br/><br/>
 Following the lectures from Pr. Gamba, Pr. Cavallero (University of Iceland), Pr. Begüm (University of Berlin) and Pr. Chanussot (University of Grenoble), I was chosen as the leader of a project group. 
 The project consisted in assessing the decrease of the Po river using only Sentinel-1 and Sentinel-2 images. 
@@ -24,6 +24,6 @@ It was a wonderfull experience for me, both from a scientific and from a social 
 
 <br/><br/>
 
-[Ganin et al., 2015] Ganin, Y., & Lempitsky, V. (2015, June). [Unsupervised domain adaptation by backpropagation](http://proceedings.mlr.press/v37/ganin15.html). In International conference on machine learning (pp. 1180-1189). PMLR.
+[Ganin et al., 2015] Ganin, Y., & Lempitsky, V. (2015, June). <a href="http://proceedings.mlr.press/v37/ganin15.html">Unsupervised domain adaptation by backpropagation</a>. In International conference on machine learning (pp. 1180-1189). PMLR.
 
 </div>
