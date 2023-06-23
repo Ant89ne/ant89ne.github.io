@@ -31,3 +31,10 @@ I'm passionnated of computer science in its whole but as previous sections show 
 Video games creations, micro-doppler spectrograms, medical MRI and tomographies and now remote sensing images, so many fields I was glad to discover deeper inside. If I did not have any background on the topic before my experiences, my curiosity and adaptability helped me to associate my skills in **image and signal processing** as well as in **Machine and Deep Learning** to all these applications. 
 
 But life is not made only of works ! Hiking, swimming, cycling and sometimes bouldering are so many activities I like to share with friends and collegues especially around Annecy nowadays ! 
+
+# Contact me
+
+If you are interested in my works and researches, need some more informations about a paper or figure out to collaborate, do not hesitate to contact me : 
+
+Mail adress : antoine.bralet89@gmail.com
+LinkedIn Profile : [Antoine Bralet](https://www.linkedin.com/in/antoine-bralet-097385159/)
