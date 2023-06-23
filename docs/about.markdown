@@ -44,11 +44,13 @@ During my PhD years, I am used to give courses to students in Polytech Annecy-Ch
 I'm passionnated of computer science in its whole but as previous sections show : especially in <b>image processing</b> !
 
 </div>
+
 <div style="text-align: justify">
 
 Video games creations, micro-doppler spectrograms, medical MRI and tomographies and now remote sensing images, so many fields I was glad to discover deeper inside. If I did not have any background on the topic before my experiences, my curiosity and adaptability helped me to associate my skills in <b>image and signal processing</b> as well as in <b>Machine and Deep Learning</b> to all these applications. 
 
 </div>
+
 <div style="text-align: justify">
 
 But life is not made only of works ! Hiking, swimming, cycling and sometimes bouldering are so many activities I like to share with friends and collegues especially around Annecy nowadays ! 
