@@ -5,4 +5,12 @@
 layout: home
 ---
 
-pilou
+**<center><font size = 10> Welcome on my personnal Website ! </font></center>**
+
+Looking for my last publications ? Have a look on my [Publications](https://ant89ne.github.io/publications/) page !
+
+Looking for more information about me, my research area and my fields of interest ? Let's meet in my [About me](https://ant89ne.github.io/about/) page !
+
+And for even more informations, contact me on antoine.bralet89@gmail.com !
+
+Else, have a look on my news ! :)
