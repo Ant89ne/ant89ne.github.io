@@ -61,7 +61,10 @@ For even more informations, contact me on antoine.bralet89@gmail.com !
 &nbsp;
 
 ---
-<br/>
+
+<font size = 1> <br/> </font>
+
 ---
 
-&nbsp;
+<br/>
+
