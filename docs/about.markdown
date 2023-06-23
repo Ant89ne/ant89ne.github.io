@@ -29,6 +29,8 @@ My researches are mainly based on <b>image processing and machine/deep learning<
 
 </div>
 
+&nbsp;
+
 # ... as a teacher
 
 <div style="text-align: justify">
@@ -36,6 +38,8 @@ My researches are mainly based on <b>image processing and machine/deep learning<
 During my PhD years, I am used to give courses to students in Polytech Annecy-Chambery and in the Institut Universitaire Technologique in Annecy. From Embedding Computer Science to Statistical Analysis, from Computer Science and Algorithms in Python to Deep Learning, I am used to vulgarize my researches and the concepts to send the most relevant messages. As a matter of fact, I also participated at the French version of My Thesis in 180 seconds to help me vulgarizing scientific notions and spread more easily complex concepts.
 
 </div>
+
+&nbsp;
 
 # ... as a person
 
@@ -56,6 +60,8 @@ Video games creations, micro-doppler spectrograms, medical MRI and tomographies 
 But life is not made only of works ! Hiking, swimming, cycling and sometimes bouldering are so many activities I like to share with friends and collegues especially around Annecy nowadays ! 
 
 </div>
+
+&nbsp;
 
 # Contact me
 
