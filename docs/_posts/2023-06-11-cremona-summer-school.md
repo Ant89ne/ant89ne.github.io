@@ -17,11 +17,12 @@ The school was organized by Pr. P. Gamba from the university of Pavia (Italy) wa
 Following the lectures from Pr. Gamba, Pr. Cavallero (University of Iceland), Pr. Begüm (University of Berlin) and Pr. Chanussot (University of Grenoble), I was chosen as the leader of a project group. 
 The project consisted in assessing the decrease of the Po river using only Sentinel-1 and Sentinel-2 images. 
 <br/>
-In the end of the week we succeeded to segment the Po river using morphological operations and to assess the Po river using a Domain Adaptation Neural Network as described in [Ganin et al., 2015].
-This way, we were able to extract common features in radar and optical images and regress the extent of the water using only **44 annotated images**.
+In the end of the week we succeeded to segment the Po river using morphological operations and to assess the Po river using a <b>Domain Adaptation Neural Network</b> as described in [Ganin et al., 2015].
+This way, we were able to extract common features in radar and optical images and regress the extent of the water using only <b>44 annotated images</b>.
 <br/>
 It was a wonderfull experience for me, both from a scientific and from a social point of view !
 
 </div>
+<br/><br/>
 
 [Ganin et al., 2015] Ganin, Y., & Lempitsky, V. (2015, June). [Unsupervised domain adaptation by backpropagation](http://proceedings.mlr.press/v37/ganin15.html). In International conference on machine learning (pp. 1180-1189). PMLR.
