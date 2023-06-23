@@ -9,19 +9,18 @@ layout: home
 
 ---
 <br/>
-<img align="left" width=200 hspace=20px src="/images/PhotoMIAI.jpeg">
+<img align="left" width=230 hspace=20px src="/images/PhotoMIAI.jpeg">
 
 
-**<font size = 6> Antoine Bralet </font>**<br/>
-**<font size = 4> 2nd year PhD Student </font>**<br/>
+**<center><font size = 6>Antoine Bralet</font></center>**
+**<center><font size = 4>2nd year PhD Student</font></center>**<br/>
 LISTIC Lab - Université Savoie Mont-Blanc <br/>
-Member of AFuTé Team (Learning, Data Fusion and Remote Sensing)<br/>
+Member of AFuTé Team<br/>
 antoine.bralet89@gmail.com<br/>
-<br/><br/>
 <div style="text-align: right">
 Keywords : Image Processing, Deep Learning
 </div>
-<br/><br/>
+<br/>
 
 --- 
 
