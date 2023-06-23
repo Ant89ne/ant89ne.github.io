@@ -9,9 +9,9 @@ layout: home
 
 ---
 <br/>
-<img align="left" width=270 hspace=50px src="/images/PhotoMIAI.jpeg">
+<img align="left" width=250 hspace=50px src="/images/PhotoMIAI.jpeg">
 
-<br/><br/>
+<br/>
 
 **<font size = 6> Antoine Bralet </font>**<br/>
 **<font size = 4> 2nd year PhD Student at LISTIC Lab - Université Savoie Mont-Blanc </font>**<br/>
