@@ -5,7 +5,7 @@
 layout: home
 ---
 
-**<center><font size = 7> Welcome on my personnal Website ! </font></center>**
+**<center><font size = 6> Welcome on my personnal Website ! </font></center>**
 
 ---
 <br/>
