@@ -22,7 +22,8 @@ This way, we were able to extract common features in radar and optical images an
 <br/>
 It was a wonderfull experience for me, both from a scientific and from a social point of view !
 
-</div>
 <br/><br/>
 
 [Ganin et al., 2015] Ganin, Y., & Lempitsky, V. (2015, June). [Unsupervised domain adaptation by backpropagation](http://proceedings.mlr.press/v37/ganin15.html). In International conference on machine learning (pp. 1180-1189). PMLR.
+
+</div>
