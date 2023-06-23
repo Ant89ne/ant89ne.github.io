@@ -1,12 +1,7 @@
 ---
 layout: page
-title: "My Test"
-permalink: /tests/
+title: "Publications"
+permalink: /publications/
 ---
 
 
-pilou pilou this is a first test
-
-# Hi boys ! 
-
-pilou pilou
