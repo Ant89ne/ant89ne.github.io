@@ -13,16 +13,16 @@ From the 4th to the 11th of June, I had the opportunity to participate to an ama
 The school was organized by Pr. P. Gamba from the university of Pavia (Italy) was entitled : 
 <br/><br/>
 <center><font size = 5>"Machine and Deep Learning for Earth Observation"</font></center>
-<br/><br/>
+<br/>
 Following the lectures from Pr. Gamba, Pr. Cavallero (University of Iceland), Pr. Begüm (University of Berlin) and Pr. Chanussot (University of Grenoble), I was chosen as the leader of a project group. 
 The project consisted in assessing the decrease of the Po river using only Sentinel-1 and Sentinel-2 images. 
-<br/>
+<br/><br/>
 In the end of the week we succeeded to segment the Po river using morphological operations and to assess the Po river using a <b>Domain Adaptation Neural Network</b> as described in [Ganin et al., 2015].
 This way, we were able to extract common features in radar and optical images and regress the extent of the water using only <b>44 annotated images</b>.
-<br/>
+<br/><br/>
 It was a wonderfull experience for me, both from a scientific and from a social point of view !
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 [Ganin et al., 2015] Ganin, Y., & Lempitsky, V. (2015, June). <a href="http://proceedings.mlr.press/v37/ganin15.html">Unsupervised domain adaptation by backpropagation</a>. In International conference on machine learning (pp. 1180-1189). PMLR.
 
