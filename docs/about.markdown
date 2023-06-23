@@ -59,6 +59,8 @@ But life is not made only of works ! Hiking, swimming, cycling and sometimes bou
 If you are interested in my works and researches, need some more informations about a paper or figure out to collaborate, do not hesitate to contact me : 
 
 </div>
-</br>
-Mail adress : antoine.bralet89@gmail.com <br> LinkedIn Profile : [Antoine Bralet](https://www.linkedin.com/in/antoine-bralet-097385159/)
+
+<br/>
+
+Mail adress : antoine.bralet89@gmail.com <br/> LinkedIn Profile : [Antoine Bralet](https://www.linkedin.com/in/antoine-bralet-097385159/)
 
