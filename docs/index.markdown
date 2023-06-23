@@ -15,13 +15,13 @@ Have a look on my [Publications](https://ant89ne.github.io/publications/) page !
 
 ---
 
-# Looking for more information about me, my research area and my fields of interest ? 
+**<font size = 5> Looking for more information about me, my research area and my fields of interest ? </font>**
 
 Let's meet in my [About me](https://ant89ne.github.io/about/) page !
 
 ---
 
-# Even more ?
+**<font size = 5> Even more ? </font>**
 
 For even more informations, contact me on antoine.bralet89@gmail.com !
 
