@@ -12,6 +12,9 @@ permalink: /about/
 
 Following the obtention of my scientific Baccalaureate and my preparatory school in Math and Physics, I integrated CPE Lyon (France) engineering school in Maths and Physics. Among my engineering years, I could specialized in Image and Signal Processing, Modeling and Computer Science. Following my gap year, I followed a double diploma cursus : finishing my engineering school and integrating the master Image and Development in 3D (ID3D) in University Claude Bernard Lyon 1.
 
+</div>
+<div style="text-align: justify"> 
+
 In 2020, I get graduated both of my engineering school and my master. I then started in October 2020 my PhD in the LISTIC lab in Annecy on :
 
 </div>
@@ -40,7 +43,13 @@ During my PhD years, I am used to give courses to students in Polytech Annecy-Ch
 
 I'm passionnated of computer science in its whole but as previous sections show : especially in **image processing** !
 
+</div>
+<div style="text-align: justify">
+
 Video games creations, micro-doppler spectrograms, medical MRI and tomographies and now remote sensing images, so many fields I was glad to discover deeper inside. If I did not have any background on the topic before my experiences, my curiosity and adaptability helped me to associate my skills in **image and signal processing** as well as in **Machine and Deep Learning** to all these applications. 
+
+</div>
+<div style="text-align: justify">
 
 But life is not made only of works ! Hiking, swimming, cycling and sometimes bouldering are so many activities I like to share with friends and collegues especially around Annecy nowadays ! 
 
@@ -52,6 +61,7 @@ But life is not made only of works ! Hiking, swimming, cycling and sometimes bou
 
 If you are interested in my works and researches, need some more informations about a paper or figure out to collaborate, do not hesitate to contact me : 
 
+</div>
+
 Mail adress : antoine.bralet89@gmail.com <br> LinkedIn Profile : [Antoine Bralet](https://www.linkedin.com/in/antoine-bralet-097385159/)
 
-</div>
