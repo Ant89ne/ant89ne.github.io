@@ -7,7 +7,7 @@ categories: deepLearning remoteSensing sardinet translation
 
 <div style="text-align: justify">
 
-Last October, I was glad to announce the publication of my first paper as part of my PhD studies. Indeed, SARDINet, a neural network capable to translate a SAR image containing geometrical distorsions into an optical image was published in ICIP 2023.
+Last October, I was glad to announce the publication of my first paper as part of my PhD studies. Indeed, SARDINet, a neural network capable to translate a SAR image containing geometrical distorsions into an optical image was published in ICIP 2022.
 <br/>
 It demonstrated sigificant improvements with regards to the results obtained by classical adversarial translation methods and shown robustness toward radiometrical and geometrical distorsions.
 
