@@ -10,10 +10,8 @@ permalink: /publications/
 * [Local Surf-Based Keypoint Transfer Segmentation](https://ieeexplore.ieee.org/abstract/document/9434106), Bralet, A., Kéchichian, R., & Valette, S. (2021, April). In 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI) (pp. 1390-1393). IEEE.
 
 * [Deep Learning of Radiometrical and Geometrical Sar Distorsions for Image Modality translations](https://ieeexplore.ieee.org/document/9897713), Bralet, A., Atto, A. M., Chanussot, J., & Trouvé, E. (2022, October). In 2022 IEEE International Conference on Image Processing (ICIP) (pp. 1766-1770). IEEE.
+  * Code available : [GitHub](https://github.com/Ant89ne/SARDINet)
 
-<div style="text-align: right">
-Code available : <a href=https://github.com/Ant89ne/SARDINet>GitHub</a>
-</div>
 
 # Journal Papers
 
