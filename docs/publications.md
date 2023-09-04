@@ -18,6 +18,11 @@ permalink: /publications/
 
 <li><a href = "https://gretsi.fr/data/colloque/pdf/2023_bralet1309.pdf">Impact de la stratégie de décodage sur la traduction de modalité radar-optique d'images de télédétection</a>, Bralet, A., Atto, A., Chanussot, J., & Trouvé, E., number 2023-1309, pages p. 929–932, Grenoble. GRETSI - Groupe de Recherche en Traitement du Signal et des Images</li>
 
+<div style="text-align: right">
+ Code available : <a href="https://github.com/Ant89ne/SARDINet_Decoding_Strategy">GitHub</a>
+</div>
+
+
 </ul>
 
 # Journal Papers

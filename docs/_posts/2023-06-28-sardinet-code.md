@@ -2,7 +2,7 @@
 layout: post
 title: "SARDINet Code Available"
 date: 2023-06-27 15:54:00 +0200
-categories: deepLearning remoteSensing sardinet translation
+categories: deepLearning remoteSensing sardinet translation code
 ---
 
 <div style="text-align: justify">
