@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impact of the decoder strategy of SARDINet Code Available"
-date: 2023-09-04 12:54:00 +0200
+date: 2023-09-04 10:54:00 +0200
 categories: deepLearning remoteSensing sardinet translation decoding code
 ---
 
