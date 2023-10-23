@@ -9,7 +9,7 @@ layout: home
 
 ---
 <br/>
-<img align="left" width=230 hspace=20px src="/images/photoKualaLumpur.jpeg">
+<img align="left" width=230 hspace=20px src="/images/photoKualaLumpur.jpg">
 
 
 **<center><font size = 6>Antoine Bralet</font></center>**
