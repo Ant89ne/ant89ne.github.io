@@ -13,7 +13,7 @@ layout: home
 
 
 **<center><font size = 6>Antoine Bralet</font></center>**
-**<center><font size = 4>2nd year PhD Student</font></center>**<br/>
+**<center><font size = 4>3rd year PhD Student</font></center>**<br/>
 LISTIC Lab - Université Savoie Mont-Blanc <br/>
 Member of AFuTé Team<br/>
 antoine.bralet89@gmail.com<br/>
