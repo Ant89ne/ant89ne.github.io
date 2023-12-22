@@ -27,6 +27,14 @@ permalink: /publications/
 
 # Journal Papers
 
+# Datasets
+
+<ul style="text-align: justify">
+
+<li><a href ="https://ieee-dataport.org/documents/isslide-insar-dataset-slow-sliding-area-detection-machine-learning"> ISSLIDE: InSAR dataset for Slow SLIding area DEtection with machine learning</a>, Bralet, A., Trouvé, E., Chanussot, J., & Atto, A. M., September 22, 2023, IEEE Dataport, doi: https://dx.doi.org/10.21227/dhxt-5g91.</li>
+
+</ul>
+
 # Other communications
 
 <ul style="text-align: justify">
