@@ -27,6 +27,13 @@ permalink: /publications/
 
 # Journal Papers
 
+<ul style="text-align: justify">
+
+<li><a href ="https://ieeexplore.ieee.org/abstract/document/10433141">ISSLIDE: A New InSAR Dataset for Slow SLIding Area DEtection With Machine Learning</a>, Bralet, A., Trouvé, E., Chanussot, J., &  Atto, A. M., in IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, Art no. 3001005, doi: 10.1109/LGRS.2024.3365299.</li>
+
+</ul>
+
+
 # Datasets
 
 <ul style="text-align: justify">
