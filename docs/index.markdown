@@ -26,6 +26,24 @@ Keywords : Image Processing, Deep Learning
 
 &nbsp;
 
+**<font size = 5> Current Project </font>**
+
+**<center><font size = 4 > Deep Learning for Multimodal Detection of Sudden and Slow Moving Slope Instabilities on Bitemporal Remote Sensing Images </font></center>**
+
+
+<div style="text-align: justify">
+
+The topic of the researches target slope instability detections from remote sensing images by using deep learning approaches. Both sudden and slow moving phenomena are of interest in the thesis requiring the implementation of several deep learning techniques. Among them, the major contributions lie in radar-optical modality translation for weather robust detections, leveraging land-cover classification to increase translation reliability, apply multimodal slide detections algorithms within a missing modality context, create a new InSAR dataset or introduce explainability within the networks.
+
+</div>
+
+&nbsp;
+
+
+---
+
+&nbsp;
+
 **<font size = 5> Looking for my last publications ? </font>**
 
 Have a look on my [Publications](https://ant89ne.github.io/publications/) page !
