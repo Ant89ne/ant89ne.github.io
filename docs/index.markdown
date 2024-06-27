@@ -26,7 +26,7 @@ Keywords : Image Processing, Deep Learning
 
 &nbsp;
 
-**<font size = 5> Current Project </font>**
+**<font size = 5> Current Project: PhD Thesis </font>**
 
 **<center><font size = 4 > Deep Learning for Multimodal Detection of Sudden and Slow Moving Slope Instabilities on Bitemporal Remote Sensing Images </font></center>**
 
