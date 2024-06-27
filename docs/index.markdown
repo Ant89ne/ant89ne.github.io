@@ -33,7 +33,7 @@ Keywords : Image Processing, Deep Learning
 
 <div style="text-align: justify">
 
-The topic of the researches target slope instability detections from remote sensing images by using deep learning approaches. Both sudden and slow moving phenomena are of interest in the thesis requiring the implementation of several deep learning techniques. Among them, the major contributions lie in radar-optical modality translation for weather robust detections, leveraging land-cover classification to increase translation reliability, apply multimodal slide detections algorithms within a missing modality context, create a new InSAR dataset or introduce explainability within the networks.
+The topic of the researches targets slope instability detections from remote sensing images by using deep learning approaches. Both sudden and slow moving phenomena are of interest in the thesis requiring the implementation of several deep learning techniques. Among them, the major contributions lie in radar-optical modality translation for weather robust detections, leveraging land-cover classification to increase translation reliability, apply multimodal slide detections algorithms within a missing modality context, create a new InSAR dataset or introduce explainability within the networks.
 
 </div>
 
