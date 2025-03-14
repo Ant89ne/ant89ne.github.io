@@ -21,7 +21,7 @@ In 2020, I get graduated both of my engineering school and my master. I then sta
 
 <div style="text-align: justify">
 
-My researches are mainly based on <b>image processing and machine/deep learning</b>. I am used to adapt my knowledge in the field to any domain after learning its specificities. The range of applications of my work is wide : video games when I was in engineering school, micro-doppler radar wave signal analysis in TNO (Netherlands), medical images in CREATIS (France) and now remote sensing images in LISTIC Lab (France). After figuring out the specificities, limitations and constraints, I adapt my methodologies to the data, expectations and objectives. Here are some keywords describing the methodologies I set in place: Domain Adaptation, Multi-Modality, Conditionned Networks, Modality Translation and Explainability-Constrained Networks.
+My researches are mainly based on <b>image processing and machine/deep learning</b>. I am used to adapt my knowledge in the field to any domain after learning its specificities. The range of applications of my work is wide : video games when I was in engineering school, micro-doppler radar wave signal analysis in TNO (Netherlands), medical images in CREATIS (France) and remote sensing images in LISTIC and IRISA labs (France). After figuring out the specificities, limitations and constraints, I adapt my methodologies to the data, expectations and objectives. Here are some keywords describing the methodologies I set in place: Domain Adaptation, Time Series, Multi-Modality, Conditionned Networks, Modality Translation and Explainability-Constrained Networks.
 
 </div>
 
