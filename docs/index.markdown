@@ -29,12 +29,20 @@ Keywords : Image Processing, Deep Learning
 
 **<font size = 5> Current Project: Post-Doc Position </font>**
 
-**<center><font size = 4 > TBD </font></center>**
+**<center><font size = 4 > Test-Time Adaptation for Crop Mapping on Satellite Image Time Series with Deep Learning </font></center>**
 
 
 <div style="text-align: justify">
 
-TBD in more details. The project will explore domain adaptation strategies for the detection of Amazonian deforestations from Sentinel-2 optical time series.
+The current project is related to a novel research field compared with my thesis work. Indeed, I am involved in the crop mapping of Satellite Image Time Series (SITS) with Deep Learning models while adapting to new geographical domains. The peculiarities of these works are two major contraints: 
+
+<ul style="text-align: justify">
+<li> First, the SITS belonging to new geographical domains are not annotated </li>
+<li> Second, the data from the source domain and target domain cannot be used jointly: source data are only available for pre-training the network and the adaptation should be applied at "test-time" </li>
+</ul>
+
+These two constraints necessitate the developpement of so-called "Test-Time Adaptation" (TTA) strategies to retrain the network unsupervisely with target data and improve the performance. 
+Since SITS are exploited, both spatial and temporal shift can occur from an domain to another which makes the adaptation even more challenging.
 
 
 </div>
