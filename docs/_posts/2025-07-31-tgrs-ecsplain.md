@@ -7,6 +7,7 @@ categories: ecsplain remote sensing explainability tgrs
 
 <p align="center"> <img width=800px src="/images/ECSPLAIN_image.png"> </p>
 
+<br/>
 <div style="text-align: justify">
 It is a great pleasure to announce that our Transaction on Geoscience and Remote Sensing (TGRS) paper describing our novel ECSPLAIN framework is now available online!
 </div>
