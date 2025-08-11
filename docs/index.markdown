@@ -17,6 +17,7 @@ layout: home
 IRISA Lab - Université Bretagne Sud <br/>
 Member of OBELIX Team<br/>
 antoine.bralet89@gmail.com<br/>
+CNU Section 27 and 61<br/>
 <div style="text-align: right">
 Keywords : Image Processing, Deep Learning
 </div>
