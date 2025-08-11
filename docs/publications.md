@@ -17,6 +17,12 @@ permalink: /publications/
 
 <ul style="text-align: justify">
 
+<li><a href ="https://ieeexplore.ieee.org/abstract/document/11108247">ECSPLAIN: Explainability Constrained-claSsifier for Pairing the detection and the Localization of moving Areas from SAR INterferograms</a>, Bralet, A.,  Atto, A. M., Chanussot, J., & Trouvé, E., in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2025.3595267.</li>
+
+
+<li><a href ="https://www.sciencedirect.com/science/article/pii/S1077314225000979">Translation-classification loss for SAR image understanding with deep learning</a>, Bralet, A.,  Atto, A. M., Chanussot, J., & Trouvé, E., in Computer Vision and Image Understanding, 2025, Elsevier, p. 104374, doi: 10.1016/j.cviu.2025.104374.</li>
+
+
 <li><a href ="https://ieeexplore.ieee.org/abstract/document/10433141">ISSLIDE: A New InSAR Dataset for Slow SLIding Area DEtection With Machine Learning</a>, Bralet, A., Trouvé, E., Chanussot, J., &  Atto, A. M., in IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, Art no. 3001005, doi: 10.1109/LGRS.2024.3365299.</li>
 
 </ul>
