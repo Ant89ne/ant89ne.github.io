@@ -72,7 +72,11 @@ permalink: /publications/
 
 <ul style="text-align: justify">
 
+<li><a href ="https://hal.science/view/index/docid/5206386"> Un nouveau jeu de données pour la détection d'instabilités gravitaires dans les Alpes à partir d'interférogrammes SAR </a>, Bralet, Trouvé, E., Chanussot, J., &  A., Atto, A. M., First proposed in 2024 Mesure de la Déformation par Imagerie Satellitaire (MDIS).</li>
+
 <li><a href ="https://hal.science/hal-03844884"> Towards a multi-Modal, multi-Temporal and multi-Phenomena dataset for natural phenomena observation through deep learning</a>, Bralet, A., Atto, A. M., Chanussot, J., & Trouvé, E. First proposed in 2022 Mesure de la Déformation par Imagerie Satellitaire (MDIS).</li>
+
+
 
 </ul>
 
