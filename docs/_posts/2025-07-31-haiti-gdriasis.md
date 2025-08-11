@@ -5,9 +5,6 @@ date: 2025-03-21 10:54:00 +0200
 categories: haiti remote sensing gdriasis dataset
 ---
 
-<p align="center"> <img width=800px src="/images/ECSPLAIN_image.png"> </p>
-
-<br/>
 <div style="text-align: justify">
 It is a great pleasure to announce that our new dataset for the detection of sudden landslides following the 2018 earthquake in Haiti is now available online on <a href ="https://ieee-dataport.org/documents/multimodal-remote-sensing-dataset-landslide-change-detection-haiti">IEEE Dataport</a>.
 </div>
